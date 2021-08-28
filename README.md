@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nacer Ghazi
 - 👀 I’m interested : in Développeur web front-end 
-- 🌱 I’m currently learning:  Html CSS javaScript
+- 🌱 I’m currently learning : Html , CSS , javaScript , React 
 - 💞️ I’m looking to collaborate on : Projet Développeur web front-end
 - 📫 How to reach me : nacer7534@live.fr
 
